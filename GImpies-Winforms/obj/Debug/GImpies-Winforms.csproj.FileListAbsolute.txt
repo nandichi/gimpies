@@ -1,0 +1,15 @@
+\\Mac\Home\Downloads\gimpies-master (1)\gimpies-master\GImpies-Winforms\bin\Debug\GImpies-Winforms.exe.config
+\\Mac\Home\Downloads\gimpies-master (1)\gimpies-master\GImpies-Winforms\bin\Debug\GImpies-Winforms.exe
+\\Mac\Home\Downloads\gimpies-master (1)\gimpies-master\GImpies-Winforms\bin\Debug\GImpies-Winforms.pdb
+\\Mac\Home\Downloads\gimpies-master (1)\gimpies-master\GImpies-Winforms\bin\Debug\FlatButton.dll
+\\Mac\Home\Downloads\gimpies-master (1)\gimpies-master\GImpies-Winforms\bin\Debug\JDragControl.dll
+\\Mac\Home\Downloads\gimpies-master (1)\gimpies-master\GImpies-Winforms\bin\Debug\JMaterialTextbox.dll
+\\Mac\Home\Downloads\gimpies-master (1)\gimpies-master\GImpies-Winforms\bin\Debug\JMetroTextBox.dll
+\\Mac\Home\Downloads\gimpies-master (1)\gimpies-master\GImpies-Winforms\obj\Debug\GImpies-Winforms.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\gimpies-master (1)\gimpies-master\GImpies-Winforms\obj\Debug\GImpies_Winforms.Form1.resources
+\\Mac\Home\Downloads\gimpies-master (1)\gimpies-master\GImpies-Winforms\obj\Debug\GImpies_Winforms.Properties.Resources.resources
+\\Mac\Home\Downloads\gimpies-master (1)\gimpies-master\GImpies-Winforms\obj\Debug\GImpies-Winforms.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\gimpies-master (1)\gimpies-master\GImpies-Winforms\obj\Debug\GImpies-Winforms.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\gimpies-master (1)\gimpies-master\GImpies-Winforms\obj\Debug\GImpies-Winforms.csproj.CopyComplete
+\\Mac\Home\Downloads\gimpies-master (1)\gimpies-master\GImpies-Winforms\obj\Debug\GImpies-Winforms.exe
+\\Mac\Home\Downloads\gimpies-master (1)\gimpies-master\GImpies-Winforms\obj\Debug\GImpies-Winforms.pdb

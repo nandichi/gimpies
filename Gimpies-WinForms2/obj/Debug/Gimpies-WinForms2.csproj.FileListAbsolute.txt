@@ -1,0 +1,66 @@
+//Mac/Home/Downloads/gimpies-master (1)/gimpies-master/Gimpies-WinForms2/bin/Debug/Gimpies-WinForms2.exe.config
+//Mac/Home/Downloads/gimpies-master (1)/gimpies-master/Gimpies-WinForms2/bin/Debug/Gimpies-WinForms2.exe
+//Mac/Home/Downloads/gimpies-master (1)/gimpies-master/Gimpies-WinForms2/bin/Debug/Gimpies-WinForms2.pdb
+//Mac/Home/Downloads/gimpies-master (1)/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Properties.Resources.resources
+//Mac/Home/Downloads/gimpies-master (1)/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.csproj.GenerateResource.cache
+//Mac/Home/Downloads/gimpies-master (1)/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.csproj.CoreCompileInputs.cache
+//Mac/Home/Downloads/gimpies-master (1)/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.exe
+//Mac/Home/Downloads/gimpies-master (1)/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.pdb
+//Mac/Home/Downloads/gimpies-master (1)/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.csproj.AssemblyReference.cache
+//Mac/Home/Downloads/gimpies-master (1)/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Menu.resources
+//Mac/Home/Downloads/gimpies-master (1)/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Verkoopmedewerker.resources
+//Mac/Home/Downloads/gimpies-master (1)/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Manager.resources
+//Mac/Home/Downloads/gimpies-master (1)/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Voorraad.resources
+//Mac/Home/Downloads/gimpies-master (1)/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Login.resources
+C:/Users/naoufal/Desktop/gimpies-master/Gimpies-WinForms2/bin/Debug/Gimpies-WinForms2.exe.config
+C:/Users/naoufal/Desktop/gimpies-master/Gimpies-WinForms2/bin/Debug/Gimpies-WinForms2.exe
+C:/Users/naoufal/Desktop/gimpies-master/Gimpies-WinForms2/bin/Debug/Gimpies-WinForms2.pdb
+C:/Users/naoufal/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.csproj.AssemblyReference.cache
+C:/Users/naoufal/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Login.resources
+C:/Users/naoufal/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Voorraad.resources
+C:/Users/naoufal/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Manager.resources
+C:/Users/naoufal/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Verkoopmedewerker.resources
+C:/Users/naoufal/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Properties.Resources.resources
+C:/Users/naoufal/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.csproj.GenerateResource.cache
+C:/Users/naoufal/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.csproj.CoreCompileInputs.cache
+C:/Users/naoufal/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.exe
+C:/Users/naoufal/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.pdb
+//Mac/Home/Desktop/gimpies-master/Gimpies-WinForms2/bin/Debug/Gimpies-WinForms2.exe.config
+//Mac/Home/Desktop/gimpies-master/Gimpies-WinForms2/bin/Debug/Gimpies-WinForms2.exe
+//Mac/Home/Desktop/gimpies-master/Gimpies-WinForms2/bin/Debug/Gimpies-WinForms2.pdb
+//Mac/Home/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.csproj.AssemblyReference.cache
+//Mac/Home/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Login.resources
+//Mac/Home/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Voorraad.resources
+//Mac/Home/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Manager.resources
+//Mac/Home/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Verkoopmedewerker.resources
+//Mac/Home/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Properties.Resources.resources
+//Mac/Home/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.csproj.GenerateResource.cache
+//Mac/Home/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.csproj.CoreCompileInputs.cache
+//Mac/Home/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.exe
+//Mac/Home/Desktop/gimpies-master/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.pdb
+/Users/naoufal/Downloads/gimpies-master-2/Gimpies-WinForms2/bin/Debug/Gimpies-WinForms2.exe.config
+/Users/naoufal/Downloads/gimpies-master-2/Gimpies-WinForms2/bin/Debug/Gimpies-WinForms2.exe
+/Users/naoufal/Downloads/gimpies-master-2/Gimpies-WinForms2/bin/Debug/Gimpies-WinForms2.pdb
+/Users/naoufal/Downloads/gimpies-master-2/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.csproj.AssemblyReference.cache
+/Users/naoufal/Downloads/gimpies-master-2/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Login.resources
+/Users/naoufal/Downloads/gimpies-master-2/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Voorraad.resources
+/Users/naoufal/Downloads/gimpies-master-2/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Manager.resources
+/Users/naoufal/Downloads/gimpies-master-2/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Verkoopmedewerker.resources
+/Users/naoufal/Downloads/gimpies-master-2/Gimpies-WinForms2/obj/Debug/Gimpies_WinForms2.Properties.Resources.resources
+/Users/naoufal/Downloads/gimpies-master-2/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.csproj.GenerateResource.cache
+/Users/naoufal/Downloads/gimpies-master-2/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.csproj.CoreCompileInputs.cache
+/Users/naoufal/Downloads/gimpies-master-2/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.exe
+/Users/naoufal/Downloads/gimpies-master-2/Gimpies-WinForms2/obj/Debug/Gimpies-WinForms2.pdb
+\\Mac\Home\Downloads\gimpies-master\gimpies-master\Gimpies-WinForms2\bin\Debug\Gimpies-WinForms2.exe.config
+\\Mac\Home\Downloads\gimpies-master\gimpies-master\Gimpies-WinForms2\bin\Debug\Gimpies-WinForms2.exe
+\\Mac\Home\Downloads\gimpies-master\gimpies-master\Gimpies-WinForms2\bin\Debug\Gimpies-WinForms2.pdb
+\\Mac\Home\Downloads\gimpies-master\gimpies-master\Gimpies-WinForms2\obj\Debug\Gimpies-WinForms2.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\gimpies-master\gimpies-master\Gimpies-WinForms2\obj\Debug\Gimpies_WinForms2.Login.resources
+\\Mac\Home\Downloads\gimpies-master\gimpies-master\Gimpies-WinForms2\obj\Debug\Gimpies_WinForms2.Voorraad.resources
+\\Mac\Home\Downloads\gimpies-master\gimpies-master\Gimpies-WinForms2\obj\Debug\Gimpies_WinForms2.Manager.resources
+\\Mac\Home\Downloads\gimpies-master\gimpies-master\Gimpies-WinForms2\obj\Debug\Gimpies_WinForms2.Verkoopmedewerker.resources
+\\Mac\Home\Downloads\gimpies-master\gimpies-master\Gimpies-WinForms2\obj\Debug\Gimpies_WinForms2.Properties.Resources.resources
+\\Mac\Home\Downloads\gimpies-master\gimpies-master\Gimpies-WinForms2\obj\Debug\Gimpies-WinForms2.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\gimpies-master\gimpies-master\Gimpies-WinForms2\obj\Debug\Gimpies-WinForms2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\gimpies-master\gimpies-master\Gimpies-WinForms2\obj\Debug\Gimpies-WinForms2.exe
+\\Mac\Home\Downloads\gimpies-master\gimpies-master\Gimpies-WinForms2\obj\Debug\Gimpies-WinForms2.pdb
